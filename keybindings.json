@@ -1,26 +1,37 @@
 // Placer vos combinaisons de touches dans ce fichier pour remplacer les valeurs par défaut
 [
-    {
-        "key": "ctrl+d",
-        "command": "editor.action.smartSelect.expand",
-        "when": "editor.TextFocus"
-    },
-    {
-        "key": "ctrl+shift+d",
-        "command": "editor.action.addSelectionToNextFindMatch",
-        "when": "editor.Focus"
-    },
-    {
-        "key": "ctrl+p",
-        "command": "workbench.action.showCommands"
-    },
-    {
-        "key": "ctrl+o",
-        "command": "workbench.action.quickOpen"
-    },
-    {
-        "key": "ctrl+shift+o",
-        "command": "revealFileInOS"
-    },
-
+  {
+    "key": "cmd+d",
+    "command": "editor.action.smartSelect.expand",
+    "when": "editor.TextFocus"
+  },
+  {
+    "key": "cmd+shift+d",
+    "command": "editor.action.addSlectionToNextFindMatch",
+    "when": "editor.Focus"
+  },
+  {
+    "key": "cmd+p",
+    "command": "workbench.action.showCommands"
+  },
+  {
+    "key": "cmd+o",
+    "command": "workbench.action.quickOpen"
+  },
+  {
+    "key": "cmd+shift+o",
+    "command": "revealFileInOS"
+  },
+  {
+    "key": "cmd+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "cmd+shift+l",
+    "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "cmd+t",
+    "command": "workbench.action.terminal.toggleTerminal"
+  }
 ]
