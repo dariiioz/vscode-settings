@@ -8,11 +8,3 @@
 ## Authors
 
 - 👤 [@dariiioz](https://www.github.com/dariiioz)
-
-## Tutorial
-
-###On MacOS:\
-`keybindings.json` file is on this path per default : `/Users/*Username*/Library/Application Support/Code/User/keybindings.json\
-`settings.json`file is on this path per default : `/Users/aymericcappelle/Library/Application Support/Code/User/settings.json`\
-
-
