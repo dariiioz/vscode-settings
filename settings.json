@@ -1,0 +1,43 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "sonarlint.ls.javaHome": "c:\\Users\\a.cappelle\\.vscode\\extensions\\sonarsource.sonarlint_managed-jre\\jre\\jdk-11.0.13+8-jre",
+    "vsicons.dontShowNewVersionMessage": true,
+    "php.validate.executablePath": "c:/php/php.exe",
+    "sonarlint.rules": {
+        "Web:UnsupportedTagsInHtml5Check": {
+            "level": "off"
+        },
+        "Web:S4084": {
+            "level": "off"
+        }
+    },
+    "window.zoomLevel": 2,
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.renderWhitespace": "all", //mettre sur trailing pour pas tout afficher les espaces
+    "editor.linkedEditing": true,
+    "editor.occurrencesHighlight": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "editor.suggest.insertMode": "replace",
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "files.autoSave": "onFocusChange",
+    "explorer.autoReveal": false,
+    "workbench.tree.indent": 15,
+    "workbench.tree.renderIndentGuides": "always",
+    "emmet.triggerExpansionOnTab": false, //true si on veut tab a la fin du text ex: section+tab au lieu de sect+tab
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.lineHeight": 25,
+    "editor.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "[Tokyo Night]":{
+            "editor.selectionBackground": "#3D59A1",
+            "editor.selectionHighlightBackground": "#3D59A1",
+            
+        }
+    }
+    
+
+
+}
